@@ -36,7 +36,8 @@ Along with the ingredients, you will need the right equipment and workspace:
 
 ![Step 1: Bread on the plate](images/step-1.png)
 
-**2.** Open the jar of jam by twisting the lid to the right and lifting it off the jar once it is completely loose from the threads. 
+**2.** Open the jar of jam by twisting the lid as shown in the figure below, lifting it off the jar once it is completely loose from the threads.
+This is assuming a right-handed thread on the jar, which is standard. 
 
 ![Step 2: Open the jar](images/step-2.png)
 

@@ -34,24 +34,24 @@ Along with the ingredients, you will need the right equipment and workspace:
 
 **1.** Place each slice of bread on the plate.
 
-![Step 1: Bread on the plate](https://docs.google.com/drawings/d/1gmYbCEYm3Rxd40uHe4eSeqwwrEeuQmw_6ID5F5WUbNw/edit?usp=sharing)
+![Step 1: Bread on the plate](images/step-1.png)
 
 **2.** Open the jar of jam by twisting the lid to the right and lifting it off the jar once it is completely loose from the threads. 
 
-![Step 2: Open the jar]()
+![Step 2: Open the jar](images/step-2.png)
 
 **3.** Pick up the butter knife by the handle and insert the blade about two (2) inches straight down into the jam through the open top of the jar.
 
-![Step 3: Put the knife in the jar]()
+![Step 3: Put the knife in the jar](images/step-3.png)
 
 **4.** Using your hand, tilt the handle of the knife at about a 20 degree angle to the surface of the jam, perpendicular to the flat side of the blade, so that the two inches of the blade that you inserted into the jam begins to scoop some of the jam.
 
-![Step 4: Tilt the knife]()
+![Step 4: Tilt the knife](images/step-4.png)
 
 **5.** From this position, lift the knife out of the jar by the handle. 
 The flat side of the blade of the knife should scoop jam, approximately two (2) centimeters (cm) high.
 
-![Step 5 : Scoop jam]()
+![Step 5 : Scoop jam](images/step-5.png)
 
 **6.** Bring the knife to one (1) of the slices of bread, and turn it over so that the jam resting on the flat side of the blade is now facing the slice of bread. 
 Some or all of the jam may fall from the knife to the bread at this point; that’s ok.
@@ -63,7 +63,7 @@ Staying within the boundaries of the bread’s crust, spread the jam out by repe
 
 **9.** Repeat steps 2-7 with the peanut butter instead of the jam, and on the other slice of bread. 
 
-![Step 9: Both slices with each topping]()
+![Step 9: Both slices with each topping](images/step-9.png)
 
 **10.** Once both slices of bread are covered with their respective topping, pick up one of the slices by sliding your fingers, palm facing upward, between the plate and the bread. 
 Lift your hand to lift the slice, toppings facing upward. 

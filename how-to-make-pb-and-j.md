@@ -79,3 +79,11 @@ In a swift movement, turn your hand over (from palm-facing-up to palm-facing-dow
 
 This guide taught you how to make a peanut butter and jelly sandwich, or PB&J. 
 Now that you know the standard method of making a PB&J, you can experiment with different breads, jams, and peanut butters. Don’t forget to clean up!
+
+## Additional resources
+
+Consult other articles in our knowledge database for further help with the content in this guide:
+
+- [How to open a jar]()
+- [How to wash a knife]()
+- [What is jam?]()

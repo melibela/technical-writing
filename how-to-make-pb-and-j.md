@@ -16,7 +16,7 @@ You will need the following ingredients to prepare a PB&J:
     - The bread should be a mild variety like White or Whole Wheat. Avoid strong flavors like Rye or Sourdough for your first PB&J.
 - Jam
     - Jam typically comes in a jar; this guide assumes you are using jam from a jar.
-    - Common varieties of jam suitable for PB&J sandwiches include Strawberry, Blueberry, Raspberry, etc.
+    - Common varieties of jam suitable for PB&Js include Strawberry, Blueberry, Raspberry, etc.
     - For the purpose of this guide, jam is interchangeable with jelly.
 - Peanut butter
     - Peanut butter typically comes in a jar; this guide assumes you are using peanut butter from a jar.
